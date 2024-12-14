@@ -10,4 +10,4 @@ Ce UI je l'ai fais pour aider un ami qui tient un site SCP et que je voulais ref
 
 ## Aperçu
 
-https://github.com/Censur-e/UI-Site-72/blob/main/Main%20UI%20Site%2072.png?raw=true
+![Site72](https://github.com/Censur-e/UI-Site-72/blob/main/Main%20UI%20Site%2072.png?raw=true)
